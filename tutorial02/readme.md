@@ -1,1 +1,1 @@
-# Tutorial #1 Django David Alvarez Grisales
+# Tutorial #2 Django David Alvarez Grisales
